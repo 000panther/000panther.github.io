@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://jp-weber.family/</loc>
+    <lastmod>2019-12-11T08:33:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jp-weber.family/posts/hallo-hugo/</loc>
+    <lastmod>2019-12-11T08:33:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jp-weber.family/posts/</loc>
+    <lastmod>2019-12-11T08:33:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jp-weber.family/tags/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Familie Weber: Paul, J und K</title>
+    <link>http://jp-weber.family/</link>
+    <description>Recent content on Familie Weber: Paul, J und K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-at</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Wed, 11 Dec 2019 08:33:18 +0100</lastBuildDate>
+    
+	<atom:link href="http://jp-weber.family/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hallo Hugo</title>
+      <link>http://jp-weber.family/posts/hallo-hugo/</link>
+      <pubDate>Wed, 11 Dec 2019 08:33:18 +0100</pubDate>
+      
+      <guid>http://jp-weber.family/posts/hallo-hugo/</guid>
+      <description>Ich war schon länger auf der Suche nach einem static page renderer und habe zuletzt Pico CMS evaluiert.
+Nun bin ich auf Hugo gestoßen - und sehr zufrieden. Ich habe darum gleich meinen Blog und meine persönliche Homepage darauf umgestellt.
+Rezepte, Radfahrthemen, Entwicklungstipps und vieles mehr gibts also nun hier.</description>
+    </item>
+    
+  </channel>
+</rss>
