@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Familie Weber: Paul, J und K</title>
-    <link>http://jp-weber.family/tags/</link>
+    <link>https://jp-weber.family/tags/</link>
     <description>Recent content in Tags on Familie Weber: Paul, J und K</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <copyright>© Copyright notice</copyright>
+    <copyright>© Paul Weber</copyright>
     
-	<atom:link href="http://jp-weber.family/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jp-weber.family/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
