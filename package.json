@@ -1,0 +1,19 @@
+{
+  "name": "000panther.github.io",
+  "version": "1.0.0",
+  "description": "Personal Homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/000panther/000panther.github.io.git"
+  },
+  "author": "Paul Weber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/000panther/000panther.github.io/issues"
+  },
+  "homepage": "https://github.com/000panther/000panther.github.io#readme"
+}
