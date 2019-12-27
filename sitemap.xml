@@ -4,11 +4,41 @@
   
   <url>
     <loc>https://jp-weber.family/</loc>
-    <lastmod>2019-12-25T08:33:18+01:00</lastmod>
+    <lastmod>2019-12-26T14:00:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://jp-weber.family/posts/</loc>
+    <lastmod>2019-12-26T14:00:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jp-weber.family/tags/rezepte/</loc>
+    <lastmod>2019-12-26T14:00:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jp-weber.family/tags/</loc>
+    <lastmod>2019-12-26T14:00:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jp-weber.family/posts/kochen/zimtschnecken-nach-cinnabon-art/</loc>
+    <lastmod>2019-12-26T14:00:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jp-weber.family/tags/open-source/</loc>
+    <lastmod>2019-12-25T08:33:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jp-weber.family/tags/programmieren/</loc>
+    <lastmod>2019-12-25T08:33:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jp-weber.family/tags/radfahren/</loc>
     <lastmod>2019-12-25T08:33:18+01:00</lastmod>
   </url>
   
@@ -18,17 +48,13 @@
   </url>
   
   <url>
-    <loc>https://jp-weber.family/about/</loc>
+    <loc>https://jp-weber.family/paul/</loc>
     <lastmod>2019-12-17T17:22:45+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://jp-weber.family/posts/hallo-hugo/</loc>
     <lastmod>2019-12-11T08:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jp-weber.family/tags/</loc>
   </url>
   
 </urlset>

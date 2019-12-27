@@ -7,9 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
+    <lastBuildDate>Thu, 26 Dec 2019 14:00:18 +0100</lastBuildDate>
     
 	<atom:link href="https://jp-weber.family/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rezepte</title>
+      <link>https://jp-weber.family/tags/rezepte/</link>
+      <pubDate>Thu, 26 Dec 2019 14:00:18 +0100</pubDate>
+      
+      <guid>https://jp-weber.family/tags/rezepte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://jp-weber.family/tags/open-source/</link>
+      <pubDate>Wed, 25 Dec 2019 08:33:18 +0100</pubDate>
+      
+      <guid>https://jp-weber.family/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmieren</title>
+      <link>https://jp-weber.family/tags/programmieren/</link>
+      <pubDate>Wed, 25 Dec 2019 08:33:18 +0100</pubDate>
+      
+      <guid>https://jp-weber.family/tags/programmieren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radfahren</title>
+      <link>https://jp-weber.family/tags/radfahren/</link>
+      <pubDate>Wed, 25 Dec 2019 08:33:18 +0100</pubDate>
+      
+      <guid>https://jp-weber.family/tags/radfahren/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

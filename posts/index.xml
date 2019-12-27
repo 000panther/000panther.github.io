@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
-    <lastBuildDate>Wed, 25 Dec 2019 08:33:18 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 14:00:18 +0100</lastBuildDate>
     
 	<atom:link href="https://jp-weber.family/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zimtschnecken a la Cinnabon</title>
+      <link>https://jp-weber.family/posts/kochen/zimtschnecken-nach-cinnabon-art/</link>
+      <pubDate>Thu, 26 Dec 2019 14:00:18 +0100</pubDate>
+      
+      <guid>https://jp-weber.family/posts/kochen/zimtschnecken-nach-cinnabon-art/</guid>
+      <description>Zutaten Teig  1 Würfel Germ 1/4 Liter Milch - lauwarm 100 Gramm Kristallzucker 75 Gramm zimmerwarme Butter 1 Teelöffel Salz 2 Eier 500 Gramm glattes Mehl  Füllung  150 - 200 Gramm brauner Zucker (je nach Geschmack) 3 Esslöffel Zimt 75 Gramm zimmerwarme Butter  Zubereitung  Für den Teig den Germ in der lauwarmer Milch mit ein wenig Zucker auflösen. Der Germ sollte aufschäumen. In der Mixerschüssel den Zucker, die Butter, das Salz, Eier und Mehl vermengen und verrühren.</description>
+    </item>
     
     <item>
       <title>Radlkarte Linz online</title>
@@ -18,8 +27,8 @@
       <pubDate>Wed, 25 Dec 2019 08:33:18 +0100</pubDate>
       
       <guid>https://jp-weber.family/posts/radlkarte-linz/</guid>
-      <description>Ein Projekt das mir im letzten Vierteljahr viel Freude bereitet hat, war die Kartierung der Radinfrastruktur von Linz. Nach dem Schema der Wiener Radlkarte habe ich viele der Linzer Radrouten kartiert.
-Schwierig war es vor allem Gebiete korrekt zu kartieren wo ich selbst nicht so viel unterwegs bin. Ich habe versucht eine Grundinfrastruktur mithilfe des vorhandenen W&amp;amp;M Ökostadtplans, der OpenCycleMap und Luftbildern von basemap.at nachzuziehen. Eine Erfahrung konnte ich dabei machen – gute Radinfrastruktur ist auch aus der Luft zu erkennen: Breite Radwege, gut sichtbare Blockmarkierungen oder rot eingefärbte Überfahrten.</description>
+      <description>Radlkarte Linz   Ein Projekt das mir im letzten Vierteljahr viel Freude bereitet hat, war die Kartierung der Radinfrastruktur von Linz. Nach dem Schema der Wiener Radlkarte habe ich viele der Linzer Radrouten kartiert.
+Schwierig war es Gebiete korrekt zu kartieren, wo ich selbst nicht so viel unterwegs bin. Ich habe versucht eine Grundinfrastruktur mithilfe des vorhandenen W&amp;amp;M Ökostadtplans, der OpenCycleMap und Luftbildern von basemap.at nachzuziehen. Eine Erfahrung konnte ich dabei machen – gute Radinfrastruktur ist auch aus der Luft zu erkennen: Breite Radwege, gut sichtbare Blockmarkierungen oder rot eingefärbte Überfahrten.</description>
     </item>
     
     <item>

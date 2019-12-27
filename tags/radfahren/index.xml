@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radfahren on Familie Weber: Paul, J und K</title>
+    <link>https://jp-weber.family/tags/radfahren/</link>
+    <description>Recent content in Radfahren on Familie Weber: Paul, J und K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-at</language>
+    <copyright>© Paul Weber</copyright>
+    <lastBuildDate>Wed, 25 Dec 2019 08:33:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://jp-weber.family/tags/radfahren/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Radlkarte Linz online</title>
+      <link>https://jp-weber.family/posts/radlkarte-linz/</link>
+      <pubDate>Wed, 25 Dec 2019 08:33:18 +0100</pubDate>
+      
+      <guid>https://jp-weber.family/posts/radlkarte-linz/</guid>
+      <description>Radlkarte Linz   Ein Projekt das mir im letzten Vierteljahr viel Freude bereitet hat, war die Kartierung der Radinfrastruktur von Linz. Nach dem Schema der Wiener Radlkarte habe ich viele der Linzer Radrouten kartiert.
+Schwierig war es Gebiete korrekt zu kartieren, wo ich selbst nicht so viel unterwegs bin. Ich habe versucht eine Grundinfrastruktur mithilfe des vorhandenen W&amp;amp;M Ökostadtplans, der OpenCycleMap und Luftbildern von basemap.at nachzuziehen. Eine Erfahrung konnte ich dabei machen – gute Radinfrastruktur ist auch aus der Luft zu erkennen: Breite Radwege, gut sichtbare Blockmarkierungen oder rot eingefärbte Überfahrten.</description>
+    </item>
+    
+  </channel>
+</rss>
