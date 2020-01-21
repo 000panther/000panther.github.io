@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
-    <lastBuildDate>Thu, 26 Dec 2019 14:00:18 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2020 19:33:18 +0100</lastBuildDate>
     
 	<atom:link href="https://jp-weber.family/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gelöst: nativescript-firebase Problem bei app resume</title>
+      <link>https://jp-weber.family/posts/entwicklung/nativescript-firebase-issues/</link>
+      <pubDate>Tue, 21 Jan 2020 19:33:18 +0100</pubDate>
+      
+      <guid>https://jp-weber.family/posts/entwicklung/nativescript-firebase-issues/</guid>
+      <description>Push Notifications stehen bei mir seit meinen Cordova Zeiten unter einem schlechten Stern, obwohl sich hier viel getan hat. Dementsprechend ging auch dieses Mal nicht gleich alles glatt.
+Beim aktuellen Problem ging es um seltsames Verhalten der App nachdem die App aus dem Ruhezustand über eine Push Notification geöffnet wurde. Dies führte dazu das Services nicht mehr reagierten, es wirkte sogar so als würden bei jedem Neustart Services dupliziert. Nach einem Start aus dem Ruhezustand über Push Notification funktionierten dann eigentlich alle von einer Push Notification ausgelösten Sachen nicht mehr zuverlässig.</description>
+    </item>
     
     <item>
       <title>Zimtschnecken a la Cinnabon</title>
@@ -18,7 +28,7 @@
       <pubDate>Thu, 26 Dec 2019 14:00:18 +0100</pubDate>
       
       <guid>https://jp-weber.family/posts/kochen/zimtschnecken-nach-cinnabon-art/</guid>
-      <description>Zutaten Teig  1 Würfel Germ 1/4 Liter Milch - lauwarm 100 Gramm Kristallzucker 75 Gramm zimmerwarme Butter 1 Teelöffel Salz 2 Eier 500 Gramm glattes Mehl  Füllung  150 - 200 Gramm brauner Zucker (je nach Geschmack) 3 Esslöffel Zimt 75 Gramm zimmerwarme Butter  Zubereitung  Für den Teig den Germ in der lauwarmer Milch mit ein wenig Zucker auflösen. Der Germ sollte aufschäumen. In der Mixerschüssel den Zucker, die Butter, das Salz, Eier und Mehl vermengen und verrühren.</description>
+      <description>Zutaten Teig  1 Würfel Germ 1/4 Liter Milch - lauwarm 100 Gramm Kristallzucker 75 Gramm zimmerwarme Butter 1 Teelöffel Salz 2 Eier 600 Gramm glattes Mehl  Füllung  150 - 200 Gramm brauner Zucker (je nach Geschmack) 3 Esslöffel Zimt 75 Gramm zimmerwarme Butter  Zubereitung  Für den Teig den Germ in der lauwarmer Milch mit ein wenig Zucker auflösen. Der Germ sollte aufschäumen. In der Mixerschüssel den Zucker, die Butter, das Salz, Eier und Mehl vermengen und verrühren.</description>
     </item>
     
     <item>
