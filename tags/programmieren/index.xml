@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 19:33:18 +0100</lastBuildDate><atom:link href="https://jp-weber.family/tags/programmieren/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jan 2020 19:33:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://jp-weber.family/tags/programmieren/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Gelöst: nativescript-firebase Problem bei app resume</title>
       <link>https://jp-weber.family/posts/entwicklung/nativescript-firebase-issues/</link>
@@ -24,7 +28,7 @@ Beim aktuellen Problem ging es um seltsames Verhalten der App, nachdem die App a
       <pubDate>Wed, 25 Dec 2019 08:33:18 +0100</pubDate>
       
       <guid>https://jp-weber.family/posts/radlkarte-linz/</guid>
-      <description>Radlkarte Linz Ein Projekt das mir im letzten Vierteljahr viel Freude bereitet hat, war die Kartierung der Radinfrastruktur von Linz. Nach dem Schema der Wiener Radlkarte habe ich viele der Linzer Radrouten kartiert.
+      <description>Radlkarte Linz   Ein Projekt das mir im letzten Vierteljahr viel Freude bereitet hat, war die Kartierung der Radinfrastruktur von Linz. Nach dem Schema der Wiener Radlkarte habe ich viele der Linzer Radrouten kartiert.
 Schwierig war es Gebiete korrekt zu kartieren, wo ich selbst nicht so viel unterwegs bin. Ich habe versucht eine Grundinfrastruktur mithilfe des vorhandenen W&amp;amp;M Ökostadtplans, der OpenCycleMap und Luftbildern von basemap.at nachzuziehen. Eine Erfahrung konnte ich dabei machen – gute Radinfrastruktur ist auch aus der Luft zu erkennen: Breite Radwege, gut sichtbare Blockmarkierungen oder rot eingefärbte Überfahrten.</description>
     </item>
     

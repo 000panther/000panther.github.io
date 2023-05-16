@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 22:00:18 +0100</lastBuildDate><atom:link href="https://jp-weber.family/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 15:35:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jp-weber.family/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paul Weber</title>
+      <link>https://jp-weber.family/paul-weber/</link>
+      <pubDate>Mon, 15 May 2023 15:35:00 +0000</pubDate>
+      
+      <guid>https://jp-weber.family/paul-weber/</guid>
+      <description>Softwareentwicklung Code wird nicht für den Computer geschrieben sondern dient dazu, seine Intention anderen Entwicklern zu kommunizieren. Selten wird Software nur einmal geschrieben und dann nicht mehr verändert. Öfters jedoch gibt es mehr Wartungsaufwand als den ursprünglichen Implementierungsaufwand - so hat man den zusätzlichen Aufwand einer &amp;ldquo;ordentlichen&amp;rdquo; Implementierung schnell drin.
+Das ist mein Credo und mein Stil. Wenn ich Code schreibe versuche ich ihn klar und verständlich zu halten, wenn möglich auch mit Tests und (falls der Code selbst nicht sprechend genug ist) mit entsprechender Dokumentation.</description>
+    </item>
+    
     <item>
       <title>Radlerkummer im Bulgariplatzviertel</title>
       <link>https://jp-weber.family/posts/fahrrad/radlerkummer-im-bulgariplatzviertel/</link>
@@ -34,7 +48,7 @@ Beim aktuellen Problem ging es um seltsames Verhalten der App, nachdem die App a
       <pubDate>Thu, 26 Dec 2019 14:00:18 +0100</pubDate>
       
       <guid>https://jp-weber.family/posts/kochen/zimtschnecken-nach-cinnabon-art/</guid>
-      <description>Zutaten Teig 1 Würfel Germ 1/4 Liter Milch - lauwarm 100 Gramm Kristallzucker 75 Gramm zimmerwarme Butter 1 Teelöffel Salz 2 Eier 600 Gramm glattes Mehl 300 kilo Zucker Füllung 150 - 200 Gramm brauner Zucker (je nach Geschmack) 3 Esslöffel Zimt 75 Gramm zimmerwarme Butter Zubereitung Für den Teig den Germ in der lauwarmer Milch mit ein wenig Zucker auflösen. Der Germ sollte aufschäumen. In der Mixerschüssel den Zucker, die Butter, das Salz, Eier und Mehl vermengen und verrühren.</description>
+      <description>Zutaten Teig  1 Würfel Germ 1/4 Liter Milch - lauwarm 100 Gramm Kristallzucker 75 Gramm zimmerwarme Butter 1 Teelöffel Salz 2 Eier 600 Gramm glattes Mehl 300 kilo Zucker  Füllung  150 - 200 Gramm brauner Zucker (je nach Geschmack) 3 Esslöffel Zimt 75 Gramm zimmerwarme Butter  Zubereitung  Für den Teig den Germ in der lauwarmer Milch mit ein wenig Zucker auflösen. Der Germ sollte aufschäumen. In der Mixerschüssel den Zucker, die Butter, das Salz, Eier und Mehl vermengen und verrühren.</description>
     </item>
     
     <item>
@@ -43,18 +57,8 @@ Beim aktuellen Problem ging es um seltsames Verhalten der App, nachdem die App a
       <pubDate>Wed, 25 Dec 2019 08:33:18 +0100</pubDate>
       
       <guid>https://jp-weber.family/posts/radlkarte-linz/</guid>
-      <description>Radlkarte Linz Ein Projekt das mir im letzten Vierteljahr viel Freude bereitet hat, war die Kartierung der Radinfrastruktur von Linz. Nach dem Schema der Wiener Radlkarte habe ich viele der Linzer Radrouten kartiert.
+      <description>Radlkarte Linz   Ein Projekt das mir im letzten Vierteljahr viel Freude bereitet hat, war die Kartierung der Radinfrastruktur von Linz. Nach dem Schema der Wiener Radlkarte habe ich viele der Linzer Radrouten kartiert.
 Schwierig war es Gebiete korrekt zu kartieren, wo ich selbst nicht so viel unterwegs bin. Ich habe versucht eine Grundinfrastruktur mithilfe des vorhandenen W&amp;amp;M Ökostadtplans, der OpenCycleMap und Luftbildern von basemap.at nachzuziehen. Eine Erfahrung konnte ich dabei machen – gute Radinfrastruktur ist auch aus der Luft zu erkennen: Breite Radwege, gut sichtbare Blockmarkierungen oder rot eingefärbte Überfahrten.</description>
-    </item>
-    
-    <item>
-      <title>Paul Weber</title>
-      <link>https://jp-weber.family/paul/</link>
-      <pubDate>Tue, 17 Dec 2019 17:22:45 +0100</pubDate>
-      
-      <guid>https://jp-weber.family/paul/</guid>
-      <description>Softwareentwicklung
-Skills Node JS, Angular, Nativescript Entwicklung Native Android Entwicklung PHP Entwicklung Linux Server Administration AWS Cloud Services (S3, EC2, Cloudfront, &amp;hellip;) Docker &amp;amp; Kubernetes Databases: MongoDB, Elasticsearch, MySQL, various Key-Value Stores like Redis, Memcache, &amp;hellip; Scrum Methology, Test Driven Development, Agile Development Lebenslauf 2014 - jetzt Softwareentwicklung Node JS und Nativescript für Apollo.ai 2010 - 2014 Softwareentwiclung PHP für IWATech 2007 - 2009 Softwareentwickler PHP für Klier, Krenn &amp;amp; Partner (Klienteninfo) 2005 - 2009 FH Technikum Wien - Bachelor Informatik, Master Softwareentwicklung 1996 - 2004 AHS Ödenburgerstraße </description>
     </item>
     
     <item>
