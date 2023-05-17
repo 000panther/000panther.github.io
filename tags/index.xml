@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 19:33:18 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2020 22:00:18 +0100</lastBuildDate><atom:link href="https://jp-weber.family/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infrastruktur</title>
+      <link>https://jp-weber.family/tags/infrastruktur/</link>
+      <pubDate>Tue, 21 Jan 2020 22:00:18 +0100</pubDate>
+      
+      <guid>https://jp-weber.family/tags/infrastruktur/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://jp-weber.family/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Radfahren</title>
+      <link>https://jp-weber.family/tags/radfahren/</link>
+      <pubDate>Tue, 21 Jan 2020 22:00:18 +0100</pubDate>
+      
+      <guid>https://jp-weber.family/tags/radfahren/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Android</title>
@@ -63,15 +77,6 @@
       <pubDate>Wed, 25 Dec 2019 08:33:18 +0100</pubDate>
       
       <guid>https://jp-weber.family/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Radfahren</title>
-      <link>https://jp-weber.family/tags/radfahren/</link>
-      <pubDate>Wed, 25 Dec 2019 08:33:18 +0100</pubDate>
-      
-      <guid>https://jp-weber.family/tags/radfahren/</guid>
       <description></description>
     </item>
     

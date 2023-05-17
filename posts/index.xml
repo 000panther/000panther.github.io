@@ -7,10 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 19:33:18 +0100</lastBuildDate>
-    
-	<atom:link href="https://jp-weber.family/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 21 Jan 2020 22:00:18 +0100</lastBuildDate><atom:link href="https://jp-weber.family/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Radlerkummer im Bulgariplatzviertel</title>
+      <link>https://jp-weber.family/posts/fahrrad/radlerkummer-im-bulgariplatzviertel/</link>
+      <pubDate>Tue, 21 Jan 2020 22:00:18 +0100</pubDate>
+      
+      <guid>https://jp-weber.family/posts/fahrrad/radlerkummer-im-bulgariplatzviertel/</guid>
+      <description>Fehlende Radinfrastruktur auf der Wiener Strasse zwischen Unionstraße und Bahnunterführung Die Wiener Straße ist eine der Hauptverbindungen vom Viertel in die Stadt. Leider ist ab der Unionstraße die Tempo 30 Zone aus, und das bei viel Verkehr und ohne Radinfrastruktur. Erst ab der Unterführung gibt es durch Initiative der Radlobby OÖ einen nicht benützungspflichtigen Geh und Radweg.
+Hier würde zumindest eine Verordnung von Tempo 30 und das Markieren von Sharrows dem Radverkehr sehr helfen.</description>
+    </item>
     
     <item>
       <title>Gelöst: nativescript-firebase Problem bei app resume</title>
@@ -18,8 +24,8 @@
       <pubDate>Tue, 21 Jan 2020 19:33:18 +0100</pubDate>
       
       <guid>https://jp-weber.family/posts/entwicklung/nativescript-firebase-issues/</guid>
-      <description>Push Notifications stehen bei mir seit meinen Cordova Zeiten unter einem schlechten Stern, obwohl sich hier viel getan hat. Dementsprechend ging auch dieses Mal nicht gleich alles glatt.
-Beim aktuellen Problem ging es um seltsames Verhalten der App nachdem die App aus dem Ruhezustand über eine Push Notification geöffnet wurde. Dies führte dazu das Services nicht mehr reagierten, es wirkte sogar so als würden bei jedem Neustart Services dupliziert. Nach einem Start aus dem Ruhezustand über Push Notification funktionierten dann eigentlich alle von einer Push Notification ausgelösten Sachen nicht mehr zuverlässig.</description>
+      <description>Push Notifications stehen bei mir seit meinen Cordova Zeiten unter einem schlechten Stern, obwohl sich hier viel getan hat. Dementsprechend ging auch bei der aktuellen Implementierung mit Nativescript und Angular nicht gleich alles glatt.
+Beim aktuellen Problem ging es um seltsames Verhalten der App, nachdem die App aus dem Ruhezustand über eine Push Notification geöffnet wurde. Dies führte dazu das Angular Services nicht mehr reagierten, es wirkte sogar so als würden bei jedem Neustart Services dupliziert.</description>
     </item>
     
     <item>
@@ -28,7 +34,7 @@ Beim aktuellen Problem ging es um seltsames Verhalten der App nachdem die App au
       <pubDate>Thu, 26 Dec 2019 14:00:18 +0100</pubDate>
       
       <guid>https://jp-weber.family/posts/kochen/zimtschnecken-nach-cinnabon-art/</guid>
-      <description>Zutaten Teig  1 Würfel Germ 1/4 Liter Milch - lauwarm 100 Gramm Kristallzucker 75 Gramm zimmerwarme Butter 1 Teelöffel Salz 2 Eier 600 Gramm glattes Mehl  Füllung  150 - 200 Gramm brauner Zucker (je nach Geschmack) 3 Esslöffel Zimt 75 Gramm zimmerwarme Butter  Zubereitung  Für den Teig den Germ in der lauwarmer Milch mit ein wenig Zucker auflösen. Der Germ sollte aufschäumen. In der Mixerschüssel den Zucker, die Butter, das Salz, Eier und Mehl vermengen und verrühren.</description>
+      <description>Zutaten Teig 1 Würfel Germ 1/4 Liter Milch - lauwarm 100 Gramm Kristallzucker 75 Gramm zimmerwarme Butter 1 Teelöffel Salz 2 Eier 600 Gramm glattes Mehl 300 kilo Zucker Füllung 150 - 200 Gramm brauner Zucker (je nach Geschmack) 3 Esslöffel Zimt 75 Gramm zimmerwarme Butter Zubereitung Für den Teig den Germ in der lauwarmer Milch mit ein wenig Zucker auflösen. Der Germ sollte aufschäumen. In der Mixerschüssel den Zucker, die Butter, das Salz, Eier und Mehl vermengen und verrühren.</description>
     </item>
     
     <item>
@@ -37,7 +43,7 @@ Beim aktuellen Problem ging es um seltsames Verhalten der App nachdem die App au
       <pubDate>Wed, 25 Dec 2019 08:33:18 +0100</pubDate>
       
       <guid>https://jp-weber.family/posts/radlkarte-linz/</guid>
-      <description>Radlkarte Linz   Ein Projekt das mir im letzten Vierteljahr viel Freude bereitet hat, war die Kartierung der Radinfrastruktur von Linz. Nach dem Schema der Wiener Radlkarte habe ich viele der Linzer Radrouten kartiert.
+      <description>Radlkarte Linz Ein Projekt das mir im letzten Vierteljahr viel Freude bereitet hat, war die Kartierung der Radinfrastruktur von Linz. Nach dem Schema der Wiener Radlkarte habe ich viele der Linzer Radrouten kartiert.
 Schwierig war es Gebiete korrekt zu kartieren, wo ich selbst nicht so viel unterwegs bin. Ich habe versucht eine Grundinfrastruktur mithilfe des vorhandenen W&amp;amp;M Ökostadtplans, der OpenCycleMap und Luftbildern von basemap.at nachzuziehen. Eine Erfahrung konnte ich dabei machen – gute Radinfrastruktur ist auch aus der Luft zu erkennen: Breite Radwege, gut sichtbare Blockmarkierungen oder rot eingefärbte Überfahrten.</description>
     </item>
     
