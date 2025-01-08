@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Hardening firebase - Familie Weber: Paul, J und K</title><link rel="icon" type="image/png" href=/icons/jpkw.png /><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="Hardening firebase" />
+<meta property="og:description" content="Firebase offers unparalelled development speed, handling all the nitty gritty details that you might not want to think about when getting a product to market. It provides hosting, database, storage, cloud functions and much more functionality.
+But by default a firebase installation is not focussed on security but developer productivity. If you have an app that has some security requirements you should think about hardening your installation. This can be done by adjusting some settings in the underlying Google Cloud Project." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jp-weber.family/posts/entwicklung/hardening-firebase/" />
+<meta property="article:published_time" content="2023-05-17T19:33:18+01:00" />
+<meta property="article:modified_time" content="2023-05-17T19:33:18+01:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hardening firebase"/>
+<meta name="twitter:description" content="Firebase offers unparalelled development speed, handling all the nitty gritty details that you might not want to think about when getting a product to market. It provides hosting, database, storage, cloud functions and much more functionality.
+But by default a firebase installation is not focussed on security but developer productivity. If you have an app that has some security requirements you should think about hardening your installation. This can be done by adjusting some settings in the underlying Google Cloud Project."/>
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" media="screen" href="https://jp-weber.family/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://jp-weber.family/css/main.css" />
+	<link rel="stylesheet" type="text/css" href="https://jp-weber.family/css/custom.css" />
+	<link rel="stylesheet" type="text/css" href="https://jp-weber.family/css/dark.css" media="(prefers-color-scheme: dark)" />
+	<link rel="stylesheet" type="text/css" href="https://jp-weber.family/css/custom-dark.css" media="(prefers-color-scheme: dark)" />
+
+	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+	<script src="https://jp-weber.family/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper post">
+		<div class="header">
+	<base href="https://jp-weber.family/">
+	<h1 class="site-title"><a href="https://jp-weber.family/">Familie Weber: Paul, J und K</a></h1>
+	<div class="site-description"><h2>Texte übers Radfahren, Programmieren und Kochen</h2><nav class="nav social">
+			<ul class="flat"><a href="https://github.com/000panther" title="Github"><i data-feather="github"></i></a><a href="https://ooe.social/@000panther" title="Mastodon"><i data-feather="mastodon"></i></a></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">Blog</a>
+			</li>
+			
+			<li>
+				<a href="/paul-weber">Über Paul Weber</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post-header">
+			<h1 class="title">Hardening firebase</h1>
+			<div class="meta">Posted at &mdash; May 17, 2023</div>
+		</div>
+
+		<div class="markdown">
+			<p>Firebase offers unparalelled development speed, handling all the nitty gritty details that you might not want to think about when getting a product to market. It provides hosting, database, storage, cloud functions and much more functionality.</p>
+<p>But by default a firebase installation is not focussed on security but developer productivity. If you have an app that has some security requirements you should think about hardening your installation. This can be done by adjusting some settings in the underlying Google Cloud Project.</p>
+<h1 id="general-settings">General Settings</h1>
+<h2 id="api-keys">API Keys</h2>
+<p>Firebase uses an API key to access services on your applications behalf. In the default settings this API Key works on every domain - so anybody could read your and use your public data from any page, using your firebase credits.</p>
+<p>To remedy:</p>
+<ul>
+<li>Go to the <a href="https://console.cloud.google.com/apis/credentials">APIs and Services -&gt; Credentials</a> page in console.cloud.google.com</li>
+<li>Under API Keys you should see &ldquo;Browser Key (auto created by Firebase)&rdquo;</li>
+<li>Setup an Application Restriction e.g. for Websites only allow your domain</li>
+<li>Limit the Key to the APIs you actually use, in my case</li>
+<li>Cloud Firestore API</li>
+<li>Cloud Functions API</li>
+<li>Cloud Storage for Firebase API</li>
+<li>Firebase Installations API</li>
+<li>Firebase Remote Config API</li>
+<li>Identity Toolkit API</li>
+<li>Token Service API</li>
+</ul>
+<h1 id="hosting">Hosting</h1>
+<h1 id="storage">Storage</h1>
+<h1 id="cloud-functions">Cloud Functions</h1>
+<h1 id="firebase">Firebase</h1>
+
+		</div>
+
+		<div class="post-tags">
+			
+				
+					<nav class="nav tags">
+							<ul class="flat">
+								
+								<li><a href="/tags/development">Development</a></li>
+								
+								<li><a href="/tags/firebase">Firebase</a></li>
+								
+								<li><a href="/tags/security">Security</a></li>
+								
+							</ul>
+					</nav>
+				
+			
+		</div>
+		<div id="disqus_thread"></div>
+<script type="text/javascript">
+	(function () {
+		
+		
+		if (window.location.hostname == "localhost")
+			return;
+
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		var disqus_shortname = 'jp-weber.family';
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+		Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div> © Paul Weber |  <a href="https://github.com/vividvilla/ezhil">Ezhil theme</a> | Built with <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-7699331-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+<script>feather.replace()</script>
+</body>
+</html>

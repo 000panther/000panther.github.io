@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 22:00:18 +0100</lastBuildDate><atom:link href="https://jp-weber.family/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 19:33:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://jp-weber.family/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hardening firebase</title>
+      <link>https://jp-weber.family/posts/entwicklung/hardening-firebase/</link>
+      <pubDate>Wed, 17 May 2023 19:33:18 +0100</pubDate>
+      
+      <guid>https://jp-weber.family/posts/entwicklung/hardening-firebase/</guid>
+      <description>Firebase offers unparalelled development speed, handling all the nitty gritty details that you might not want to think about when getting a product to market. It provides hosting, database, storage, cloud functions and much more functionality.
+But by default a firebase installation is not focussed on security but developer productivity. If you have an app that has some security requirements you should think about hardening your installation. This can be done by adjusting some settings in the underlying Google Cloud Project.</description>
+    </item>
+    
     <item>
       <title>Radlerkummer im Bulgariplatzviertel</title>
       <link>https://jp-weber.family/posts/fahrrad/radlerkummer-im-bulgariplatzviertel/</link>
@@ -34,7 +48,7 @@ Beim aktuellen Problem ging es um seltsames Verhalten der App, nachdem die App a
       <pubDate>Thu, 26 Dec 2019 14:00:18 +0100</pubDate>
       
       <guid>https://jp-weber.family/posts/kochen/zimtschnecken-nach-cinnabon-art/</guid>
-      <description>Zutaten Teig 1 Würfel Germ 1/4 Liter Milch - lauwarm 100 Gramm Kristallzucker 75 Gramm zimmerwarme Butter 1 Teelöffel Salz 2 Eier 600 Gramm glattes Mehl 300 kilo Zucker Füllung 150 - 200 Gramm brauner Zucker (je nach Geschmack) 3 Esslöffel Zimt 75 Gramm zimmerwarme Butter Zubereitung Für den Teig den Germ in der lauwarmer Milch mit ein wenig Zucker auflösen. Der Germ sollte aufschäumen. In der Mixerschüssel den Zucker, die Butter, das Salz, Eier und Mehl vermengen und verrühren.</description>
+      <description>Zutaten Teig  1 Würfel Germ 1/4 Liter Milch - lauwarm 100 Gramm Kristallzucker 75 Gramm zimmerwarme Butter 1 Teelöffel Salz 2 Eier 600 Gramm glattes Mehl 300 kilo Zucker  Füllung  150 - 200 Gramm brauner Zucker (je nach Geschmack) 3 Esslöffel Zimt 75 Gramm zimmerwarme Butter  Zubereitung  Für den Teig den Germ in der lauwarmer Milch mit ein wenig Zucker auflösen. Der Germ sollte aufschäumen. In der Mixerschüssel den Zucker, die Butter, das Salz, Eier und Mehl vermengen und verrühren.</description>
     </item>
     
     <item>
@@ -43,7 +57,7 @@ Beim aktuellen Problem ging es um seltsames Verhalten der App, nachdem die App a
       <pubDate>Wed, 25 Dec 2019 08:33:18 +0100</pubDate>
       
       <guid>https://jp-weber.family/posts/radlkarte-linz/</guid>
-      <description>Radlkarte Linz Ein Projekt das mir im letzten Vierteljahr viel Freude bereitet hat, war die Kartierung der Radinfrastruktur von Linz. Nach dem Schema der Wiener Radlkarte habe ich viele der Linzer Radrouten kartiert.
+      <description>Radlkarte Linz   Ein Projekt das mir im letzten Vierteljahr viel Freude bereitet hat, war die Kartierung der Radinfrastruktur von Linz. Nach dem Schema der Wiener Radlkarte habe ich viele der Linzer Radrouten kartiert.
 Schwierig war es Gebiete korrekt zu kartieren, wo ich selbst nicht so viel unterwegs bin. Ich habe versucht eine Grundinfrastruktur mithilfe des vorhandenen W&amp;amp;M Ökostadtplans, der OpenCycleMap und Luftbildern von basemap.at nachzuziehen. Eine Erfahrung konnte ich dabei machen – gute Radinfrastruktur ist auch aus der Luft zu erkennen: Breite Radwege, gut sichtbare Blockmarkierungen oder rot eingefärbte Überfahrten.</description>
     </item>
     
@@ -56,6 +70,15 @@ Schwierig war es Gebiete korrekt zu kartieren, wo ich selbst nicht so viel unter
       <description>Ich war schon länger auf der Suche nach einem static page renderer und habe zuletzt Pico CMS evaluiert.
 Nun bin ich auf Hugo gestoßen - und sehr zufrieden. Ich habe darum gleich meinen Blog und meine persönliche Homepage darauf umgestellt.
 Rezepte, Radfahrthemen, Entwicklungstipps und vieles mehr gibts also nun hier.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-weber.family/posts/kinder/computerspiele-fuer-kinder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-weber.family/posts/kinder/computerspiele-fuer-kinder/</guid>
+      <description></description>
     </item>
     
   </channel>

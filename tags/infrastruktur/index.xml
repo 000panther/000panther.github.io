@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 22:00:18 +0100</lastBuildDate><atom:link href="https://jp-weber.family/tags/infrastruktur/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jan 2020 22:00:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://jp-weber.family/tags/infrastruktur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Radlerkummer im Bulgariplatzviertel</title>
       <link>https://jp-weber.family/posts/fahrrad/radlerkummer-im-bulgariplatzviertel/</link>
