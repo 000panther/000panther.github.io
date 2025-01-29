@@ -4,23 +4,17 @@
     <title>Development on Familie Weber: Paul, J und K</title>
     <link>https://jp-weber.family/tags/development/</link>
     <description>Recent content in Development on Familie Weber: Paul, J und K</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
     <lastBuildDate>Wed, 17 May 2023 19:33:18 +0100</lastBuildDate>
-    
-	<atom:link href="https://jp-weber.family/tags/development/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jp-weber.family/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hardening firebase</title>
       <link>https://jp-weber.family/posts/entwicklung/hardening-firebase/</link>
       <pubDate>Wed, 17 May 2023 19:33:18 +0100</pubDate>
-      
       <guid>https://jp-weber.family/posts/entwicklung/hardening-firebase/</guid>
-      <description>Firebase offers unparalelled development speed, handling all the nitty gritty details that you might not want to think about when getting a product to market. It provides hosting, database, storage, cloud functions and much more functionality.
-But by default a firebase installation is not focussed on security but developer productivity. If you have an app that has some security requirements you should think about hardening your installation. This can be done by adjusting some settings in the underlying Google Cloud Project.</description>
+      <description>&lt;p&gt;Firebase offers unparalelled development speed, handling all the nitty gritty details that you might not want to think about when getting a product to market. It provides hosting, database, storage, cloud functions and much more functionality.&lt;/p&gt;&#xA;&lt;p&gt;But by default a firebase installation is not focussed on security but developer productivity. If you have an app that has some security requirements you should think about hardening your installation. This can be done by adjusting some settings in the underlying Google Cloud Project.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

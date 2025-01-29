@@ -1,114 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://jp-weber.family/posts/repair-reuse-recycle/</loc>
+    <lastmod>2025-01-29T06:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://jp-weber.family/posts/repair-reuse-recycle/alte-fahrradschlaeuche-upcyclen/</loc>
+    <lastmod>2025-01-29T06:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://jp-weber.family/</loc>
+    <lastmod>2025-01-29T06:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://jp-weber.family/posts/</loc>
+    <lastmod>2025-01-29T06:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://jp-weber.family/tags/rezepte/</loc>
+    <lastmod>2025-01-29T06:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://jp-weber.family/tags/</loc>
+    <lastmod>2025-01-29T06:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://jp-weber.family/tags/development/</loc>
     <lastmod>2023-05-17T19:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/tags/firebase/</loc>
     <lastmod>2023-05-17T19:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/posts/entwicklung/hardening-firebase/</loc>
     <lastmod>2023-05-17T19:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jp-weber.family/posts/</loc>
-    <lastmod>2023-05-17T19:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/tags/security/</loc>
     <lastmod>2023-05-17T19:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jp-weber.family/tags/</loc>
-    <lastmod>2023-05-17T19:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jp-weber.family/</loc>
-    <lastmod>2023-05-15T15:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/paul-weber/</loc>
     <lastmod>2023-05-15T15:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/tags/infrastruktur/</loc>
     <lastmod>2020-01-21T22:00:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/tags/radfahren/</loc>
     <lastmod>2020-01-21T22:00:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/posts/fahrrad/radlerkummer-im-bulgariplatzviertel/</loc>
     <lastmod>2020-01-21T22:00:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/tags/android/</loc>
     <lastmod>2020-01-21T19:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/tags/bugfix/</loc>
     <lastmod>2020-01-21T19:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/posts/entwicklung/nativescript-firebase-issues/</loc>
     <lastmod>2020-01-21T19:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/tags/nativescript/</loc>
     <lastmod>2020-01-21T19:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/tags/programmieren/</loc>
     <lastmod>2020-01-21T19:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jp-weber.family/tags/rezepte/</loc>
-    <lastmod>2019-12-26T14:00:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/posts/kochen/zimtschnecken-nach-cinnabon-art/</loc>
     <lastmod>2019-12-26T14:00:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/tags/open-source/</loc>
     <lastmod>2019-12-25T08:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/posts/radlkarte-linz/</loc>
     <lastmod>2019-12-25T08:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/posts/hallo-hugo/</loc>
     <lastmod>2019-12-11T08:33:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-weber.family/posts/kinder/computerspiele-fuer-kinder/</loc>
   </url>
-  
 </urlset>

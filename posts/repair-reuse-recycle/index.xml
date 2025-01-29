@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Familie Weber: Paul, J und K</title>
+    <link>https://jp-weber.family/posts/repair-reuse-recycle/</link>
+    <description>Recent content on Familie Weber: Paul, J und K</description>
+    <generator>Hugo</generator>
+    <language>de-at</language>
+    <copyright>© Paul Weber</copyright>
+    <lastBuildDate>Wed, 29 Jan 2025 06:00:00 +0100</lastBuildDate>
+    <atom:link href="https://jp-weber.family/posts/repair-reuse-recycle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alte Fahrradschläuche verwerten</title>
+      <link>https://jp-weber.family/posts/repair-reuse-recycle/alte-fahrradschlaeuche-upcyclen/</link>
+      <pubDate>Wed, 29 Jan 2025 06:00:00 +0100</pubDate>
+      <guid>https://jp-weber.family/posts/repair-reuse-recycle/alte-fahrradschlaeuche-upcyclen/</guid>
+      <description>&lt;p&gt;{{ $before := .Resources.Get &amp;ldquo;fahrradschlauch-spanngummi.jpg&amp;rdquo; }}&#xA;{{ $after := .Resources.Get &amp;ldquo;fahrradschlauch-spanngummi-repariert.jpg&amp;rdquo; }}&lt;/p&gt;&#xA;&lt;p&gt;Bei mir haben sich im Laufe meiner Radlerkarriere einige alte Fahrradschläuche&#xA;angesammelt. Um genau zu sein duzende. Meist tausche ich den defekten Schlauch&#xA;gegen einen neuen aus und repariere dann den alten mit einem Flicken, um einen&#xA;Reserveschlauch dabeizuhaben.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gepäcksspanner-aus-altem-fahrradschlauch&#34;&gt;Gepäcksspanner aus altem Fahrradschlauch&lt;/h2&gt;&#xA;&lt;p&gt;Da ich auch viele Sachen am Rad transportiere habe ich auch einige Gepäcksspanner zuhause. Diese haben leider die Eigenschaft, dass der Gummi nach einiger Zeit ausleiert.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -4,23 +4,17 @@
     <title>Android on Familie Weber: Paul, J und K</title>
     <link>https://jp-weber.family/tags/android/</link>
     <description>Recent content in Android on Familie Weber: Paul, J und K</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
     <lastBuildDate>Tue, 21 Jan 2020 19:33:18 +0100</lastBuildDate>
-    
-	<atom:link href="https://jp-weber.family/tags/android/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jp-weber.family/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gelöst: nativescript-firebase Problem bei app resume</title>
       <link>https://jp-weber.family/posts/entwicklung/nativescript-firebase-issues/</link>
       <pubDate>Tue, 21 Jan 2020 19:33:18 +0100</pubDate>
-      
       <guid>https://jp-weber.family/posts/entwicklung/nativescript-firebase-issues/</guid>
-      <description>Push Notifications stehen bei mir seit meinen Cordova Zeiten unter einem schlechten Stern, obwohl sich hier viel getan hat. Dementsprechend ging auch bei der aktuellen Implementierung mit Nativescript und Angular nicht gleich alles glatt.
-Beim aktuellen Problem ging es um seltsames Verhalten der App, nachdem die App aus dem Ruhezustand über eine Push Notification geöffnet wurde. Dies führte dazu das Angular Services nicht mehr reagierten, es wirkte sogar so als würden bei jedem Neustart Services dupliziert.</description>
+      <description>&lt;p&gt;Push Notifications stehen bei mir seit meinen Cordova Zeiten unter einem schlechten Stern, obwohl sich hier viel getan hat. Dementsprechend ging auch bei der aktuellen Implementierung mit &lt;a href=&#34;https://www.nativescript.org/&#34;&gt;Nativescript&lt;/a&gt; und Angular nicht gleich alles glatt.&lt;/p&gt;&#xA;&lt;p&gt;Beim aktuellen Problem ging es um seltsames Verhalten der App, nachdem die App aus dem Ruhezustand über eine Push Notification geöffnet wurde. Dies führte dazu das Angular Services nicht mehr reagierten, es wirkte sogar so als würden bei jedem Neustart Services dupliziert. Nach einem Start aus dem Ruhezustand über Push Notification funktionierten dann eigentlich alle von einer Push Notification ausgelösten Features nicht mehr zuverlässig.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

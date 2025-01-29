@@ -4,22 +4,24 @@
     <title>Rezepte on Familie Weber: Paul, J und K</title>
     <link>https://jp-weber.family/tags/rezepte/</link>
     <description>Recent content in Rezepte on Familie Weber: Paul, J und K</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
-    <lastBuildDate>Thu, 26 Dec 2019 14:00:18 +0100</lastBuildDate>
-    
-	<atom:link href="https://jp-weber.family/tags/rezepte/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 29 Jan 2025 06:00:00 +0100</lastBuildDate>
+    <atom:link href="https://jp-weber.family/tags/rezepte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alte Fahrradschläuche verwerten</title>
+      <link>https://jp-weber.family/posts/repair-reuse-recycle/alte-fahrradschlaeuche-upcyclen/</link>
+      <pubDate>Wed, 29 Jan 2025 06:00:00 +0100</pubDate>
+      <guid>https://jp-weber.family/posts/repair-reuse-recycle/alte-fahrradschlaeuche-upcyclen/</guid>
+      <description>&lt;p&gt;{{ $before := .Resources.Get &amp;ldquo;fahrradschlauch-spanngummi.jpg&amp;rdquo; }}&#xA;{{ $after := .Resources.Get &amp;ldquo;fahrradschlauch-spanngummi-repariert.jpg&amp;rdquo; }}&lt;/p&gt;&#xA;&lt;p&gt;Bei mir haben sich im Laufe meiner Radlerkarriere einige alte Fahrradschläuche&#xA;angesammelt. Um genau zu sein duzende. Meist tausche ich den defekten Schlauch&#xA;gegen einen neuen aus und repariere dann den alten mit einem Flicken, um einen&#xA;Reserveschlauch dabeizuhaben.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gepäcksspanner-aus-altem-fahrradschlauch&#34;&gt;Gepäcksspanner aus altem Fahrradschlauch&lt;/h2&gt;&#xA;&lt;p&gt;Da ich auch viele Sachen am Rad transportiere habe ich auch einige Gepäcksspanner zuhause. Diese haben leider die Eigenschaft, dass der Gummi nach einiger Zeit ausleiert.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Zimtschnecken a la Cinnabon</title>
       <link>https://jp-weber.family/posts/kochen/zimtschnecken-nach-cinnabon-art/</link>
       <pubDate>Thu, 26 Dec 2019 14:00:18 +0100</pubDate>
-      
       <guid>https://jp-weber.family/posts/kochen/zimtschnecken-nach-cinnabon-art/</guid>
-      <description>Zutaten Teig  1 Würfel Germ 1/4 Liter Milch - lauwarm 100 Gramm Kristallzucker 75 Gramm zimmerwarme Butter 1 Teelöffel Salz 2 Eier 600 Gramm glattes Mehl 300 kilo Zucker  Füllung  150 - 200 Gramm brauner Zucker (je nach Geschmack) 3 Esslöffel Zimt 75 Gramm zimmerwarme Butter  Zubereitung  Für den Teig den Germ in der lauwarmer Milch mit ein wenig Zucker auflösen. Der Germ sollte aufschäumen. In der Mixerschüssel den Zucker, die Butter, das Salz, Eier und Mehl vermengen und verrühren.</description>
+      <description>&lt;h2 id=&#34;zutaten&#34;&gt;Zutaten&lt;/h2&gt;&#xA;&lt;h3 id=&#34;teig&#34;&gt;Teig&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 Würfel Germ&lt;/li&gt;&#xA;&lt;li&gt;1/4 Liter Milch - lauwarm&lt;/li&gt;&#xA;&lt;li&gt;100 Gramm Kristallzucker&lt;/li&gt;&#xA;&lt;li&gt;75 Gramm zimmerwarme Butter&lt;/li&gt;&#xA;&lt;li&gt;1 Teelöffel Salz&lt;/li&gt;&#xA;&lt;li&gt;2 Eier&lt;/li&gt;&#xA;&lt;li&gt;600 Gramm glattes Mehl&lt;/li&gt;&#xA;&lt;li&gt;300 kilo Zucker&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;füllung&#34;&gt;Füllung&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;150 - 200 Gramm brauner Zucker (je nach Geschmack)&lt;/li&gt;&#xA;&lt;li&gt;3 Esslöffel Zimt&lt;/li&gt;&#xA;&lt;li&gt;75 Gramm zimmerwarme Butter&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;zubereitung&#34;&gt;Zubereitung&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Für den Teig den Germ in der lauwarmer Milch mit ein wenig Zucker auflösen. Der Germ sollte aufschäumen.&lt;/li&gt;&#xA;&lt;li&gt;In der Mixerschüssel den Zucker, die Butter, das Salz, Eier und Mehl vermengen und verrühren.&lt;/li&gt;&#xA;&lt;li&gt;Die Milch mit dem Germ über die Mehlmischung gießen und verrühren, bis ein glatter Teig entsteht. Wenn der Teig noch sehr klebrig ist, ist es kein Problem noch mehr Mehl dazu zu geben.&lt;/li&gt;&#xA;&lt;li&gt;Teig in eine geölte Schüssel geben, zudecken und an einem warmen Platz circa eine Stunde gehen lassen. Der Teig sollte sich von der Größe her verdoppeln.&lt;/li&gt;&#xA;&lt;li&gt;Für die Füllung den braunen Zucker und den Zimt in einer kleinen Schüssel vermischen.&lt;/li&gt;&#xA;&lt;li&gt;Den Teig auf einer bemehlten Arbeitsfläche mit einem Teigroller ausrollen, auf einen halben Zentimeter.&lt;/li&gt;&#xA;&lt;li&gt;Weiche Butter für die Füllung auf dem Teig gleichmäßig verteilen, dann mit der Zimt-Zuckermischung bestreuen.&lt;/li&gt;&#xA;&lt;li&gt;Dann den Teig von der langen Seite aus zusammenrollen.&lt;/li&gt;&#xA;&lt;li&gt;Eine große Form fetten.&lt;/li&gt;&#xA;&lt;li&gt;Den zusammengerollten Teig mit einem scharfen Messer in fingerdicke Schnitten schneiden und diese, Stück für Stück, vorsichtig in die gefettete Form legen.&lt;/li&gt;&#xA;&lt;li&gt;Nochmal zudecken und 30 Minuten gehen lassen.&lt;/li&gt;&#xA;&lt;li&gt;Bei 180° Umluft oder Ober/Unterhitze für circa 20 Minuten backen. Wenn die Zimtschnecken sich goldbraun färben sind sie fertig!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Guten Appetit!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
