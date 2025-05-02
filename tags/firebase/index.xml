@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firebase on Familie Weber: Paul, J, K, F und A</title>
-    <link>https://jp-weber.family/tags/firebase/</link>
+    <link>http://localhost:1313/tags/firebase/</link>
     <description>Recent content in Firebase on Familie Weber: Paul, J, K, F und A</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>© Paul Weber</copyright>
     <lastBuildDate>Wed, 17 May 2023 19:33:18 +0100</lastBuildDate>
-    <atom:link href="https://jp-weber.family/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hardening firebase</title>
-      <link>https://jp-weber.family/posts/entwicklung/hardening-firebase/</link>
+      <link>http://localhost:1313/posts/entwicklung/hardening-firebase/</link>
       <pubDate>Wed, 17 May 2023 19:33:18 +0100</pubDate>
-      <guid>https://jp-weber.family/posts/entwicklung/hardening-firebase/</guid>
+      <guid>http://localhost:1313/posts/entwicklung/hardening-firebase/</guid>
       <description>&lt;p&gt;Firebase offers unparalelled development speed, handling all the nitty gritty details that you might not want to think about when getting a product to market. It provides hosting, database, storage, cloud functions and much more functionality.&lt;/p&gt;&#xA;&lt;p&gt;But by default a firebase installation is not focussed on security but developer productivity. If you have an app that has some security requirements you should think about hardening your installation. This can be done by adjusting some settings in the underlying Google Cloud Project.&lt;/p&gt;</description>
     </item>
   </channel>
