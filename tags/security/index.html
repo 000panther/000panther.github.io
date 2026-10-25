@@ -1,52 +1,71 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
-	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Security - Familie Weber: Paul, J, K, F und A</title><link rel="icon" type="image/png" href=/icons/jpkw.png /><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8" /><title>Security - Familie Weber: Paul, J, K, F und A</title>
+	<link rel="icon" href="/icons/jpkw.png" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="alternate" type="application/rss+xml" href="https://jp-weber.family/tags/security/index.xml" title="Familie Weber: Paul, J, K, F und A" />
 	<meta property="og:url" content="https://jp-weber.family/tags/security/">
-  <meta property="og:site_name" content="Familie Weber: Paul, J, K, F und A">
-  <meta property="og:title" content="Security">
-  <meta property="og:locale" content="de_at">
-  <meta property="og:type" content="website">
+	<meta property="og:site_name" content="Familie Weber: Paul, J, K, F und A">
+	<meta property="og:title" content="Security">
+	<meta property="og:locale" content="de_at">
+	<meta property="og:type" content="website">
 
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Security">
-<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300" rel="stylesheet">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Security">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300&display=swap" rel="stylesheet">
 
-	<link rel="stylesheet" type="text/css" media="screen" href="https://jp-weber.family/css/normalize.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="https://jp-weber.family/css/main.css" />
-	<link rel="stylesheet" type="text/css" href="https://jp-weber.family/css/custom.css" />
-	<link rel="stylesheet" type="text/css" href="https://jp-weber.family/css/dark.css" media="(prefers-color-scheme: dark)" />
-	<link rel="stylesheet" type="text/css" href="https://jp-weber.family/css/custom-dark.css" media="(prefers-color-scheme: dark)" />
-
-	<script src="https://jp-weber.family/js/feather.min.js"></script>
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" href="/css/custom.css" />
+	<link rel="stylesheet" type="text/css" href="/css/dark.css" media="(prefers-color-scheme: dark)" data-ezhil-dark />
+	<link rel="stylesheet" type="text/css" href="/css/custom-dark.css" media="(prefers-color-scheme: dark)" data-ezhil-dark />
+	<script>
 	
-	<script src="https://jp-weber.family/js/main.js"></script>
-</head>
+	(function () {
+		var mode = "auto", key = "ezhil-theme", stored = null;
+		try { stored = localStorage.getItem(key); } catch (e) {}
+		function apply(dark) {
+			document.documentElement.setAttribute("data-theme", dark ? "dark" : "light");
+			var links = document.querySelectorAll("link[data-ezhil-dark]");
+			for (var i = 0; i < links.length; i++) {
+				links[i].media = dark ? "screen" : "not all";
+			}
+		}
+		function preferred() {
+			return mode === "dark" || (mode === "auto" && window.matchMedia("(prefers-color-scheme: dark)").matches);
+		}
+		apply(stored ? stored === "dark" : preferred());
+		
+		if (mode === "auto" && window.matchMedia) {
+			window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function (ev) {
+				try { if (localStorage.getItem(key)) return; } catch (e) {}
+				apply(ev.matches);
+			});
+		}
+		document.addEventListener("click", function (e) {
+			if (!e.target.closest || !e.target.closest("#theme-toggle")) return;
+			var dark = document.documentElement.getAttribute("data-theme") !== "dark";
+			apply(dark);
+			try { localStorage.setItem(key, dark ? "dark" : "light"); } catch (e) {}
+		});
+	})();
+	</script>
 
+	<script defer src="/js/feather.min.js"></script>
+	
+</head>
 
 <body>
 	<div class="container wrapper list">
 		<div class="header">
-	<base href="https://jp-weber.family/">
-	<h1 class="site-title"><a href="https://jp-weber.family/">Familie Weber: Paul, J, K, F und A</a></h1>
+	<h1 class="site-title"><a href="/">Familie Weber: Paul, J, K, F und A</a></h1>
 	<div class="site-description"><h2>Texte übers Radfahren, Programmieren und Kochen</h2><nav class="nav social">
-			<ul class="flat"><a href="https://github.com/000panther" title="Github"><img
-					src="/icons/github.svg"
-					alt="Github"
-					height="36"
-					width="36"
-					rel="" />
-				  </a><a href="https://ooe.social/@000panther" title="Mastodon"><img
-					src="/icons/mastodon.svg"
-					alt="Mastodon"
-					height="36"
-					width="36"
-					rel="me" />
-				  </a></ul>
-		</nav>
-	</div>
+			<ul class="flat"><li><a href="https://github.com/000panther" title="Github"><img src="/icons/github.svg" alt="Github" height="36" width="36" /></a></li><li><a href="https://ooe.social/@000panther" title="Mastodon" rel="me"><img src="/icons/mastodon.svg" alt="Mastodon" height="36" width="36" /></a></li><li class="theme-switch">
+					<button type="button" id="theme-toggle" title="Toggle dark mode" aria-label="Toggle dark mode"><i data-feather="moon" class="icon-to-dark"></i><i data-feather="sun" class="icon-to-light"></i></button>
+				</li></ul>
+		</nav></div>
 
 	<nav class="nav">
 		<ul class="flat">
@@ -65,22 +84,26 @@
 
 
 		
-			<h1>Entries tagged - "Security"</h1>
-		
+<h1 class="page-title">Entries tagged &mdash; &ldquo;Security&rdquo;</h1>
 
-		
 
-		<ul class="posts"><li class="post">
-				<a href="/posts/entwicklung/hardening-firebase/">Hardening firebase</a> <span class="meta">May 17, 2023</span>
-			</li></ul>
+
+<ul class="posts">
+	<li class="post">
+		<a href="/posts/entwicklung/hardening-firebase/">Hardening firebase</a> <span class="meta">17. Mai 2023</span>
+	</li>
+</ul>
+
+
 	</div>
-
 	<div class="footer wrapper">
 	<nav class="nav">
 		<div> © Paul Weber |  <a href="https://github.com/vividvilla/ezhil">Ezhil theme</a> | Built with <a href="https://gohugo.io">Hugo</a></div>
 	</nav>
 </div>
 
-</body>
 
+
+<script>document.addEventListener('DOMContentLoaded', function () { feather.replace() })</script>
+</body>
 </html>

@@ -1,52 +1,72 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
-	<meta name="generator" content="Hugo 0.142.0">
-	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Familie Weber: Paul, J, K, F und A - Texte übers Radfahren, Programmieren und Kochen </title><link rel="icon" type="image/png" href=/icons/jpkw.png /><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8" /><title>Familie Weber: Paul, J, K, F und A - Texte übers Radfahren, Programmieren und Kochen</title>
+	<link rel="icon" href="/icons/jpkw.png" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="alternate" type="application/rss+xml" href="https://jp-weber.family/index.xml" title="Familie Weber: Paul, J, K, F und A" />
 	<meta property="og:url" content="https://jp-weber.family/">
-  <meta property="og:site_name" content="Familie Weber: Paul, J, K, F und A">
-  <meta property="og:title" content="Familie Weber: Paul, J, K, F und A">
-  <meta property="og:locale" content="de_at">
-  <meta property="og:type" content="website">
+	<meta property="og:site_name" content="Familie Weber: Paul, J, K, F und A">
+	<meta property="og:title" content="Familie Weber: Paul, J, K, F und A">
+	<meta property="og:locale" content="de_at">
+	<meta property="og:type" content="website">
 
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Familie Weber: Paul, J, K, F und A">
-<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300" rel="stylesheet">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Familie Weber: Paul, J, K, F und A">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300&display=swap" rel="stylesheet">
 
-	<link rel="stylesheet" type="text/css" media="screen" href="https://jp-weber.family/css/normalize.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="https://jp-weber.family/css/main.css" />
-	<link rel="stylesheet" type="text/css" href="https://jp-weber.family/css/custom.css" />
-	<link rel="stylesheet" type="text/css" href="https://jp-weber.family/css/dark.css" media="(prefers-color-scheme: dark)" />
-	<link rel="stylesheet" type="text/css" href="https://jp-weber.family/css/custom-dark.css" media="(prefers-color-scheme: dark)" />
-
-	<script src="https://jp-weber.family/js/feather.min.js"></script>
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" href="/css/custom.css" />
+	<link rel="stylesheet" type="text/css" href="/css/dark.css" media="(prefers-color-scheme: dark)" data-ezhil-dark />
+	<link rel="stylesheet" type="text/css" href="/css/custom-dark.css" media="(prefers-color-scheme: dark)" data-ezhil-dark />
+	<script>
 	
-	<script src="https://jp-weber.family/js/main.js"></script>
+	(function () {
+		var mode = "auto", key = "ezhil-theme", stored = null;
+		try { stored = localStorage.getItem(key); } catch (e) {}
+		function apply(dark) {
+			document.documentElement.setAttribute("data-theme", dark ? "dark" : "light");
+			var links = document.querySelectorAll("link[data-ezhil-dark]");
+			for (var i = 0; i < links.length; i++) {
+				links[i].media = dark ? "screen" : "not all";
+			}
+		}
+		function preferred() {
+			return mode === "dark" || (mode === "auto" && window.matchMedia("(prefers-color-scheme: dark)").matches);
+		}
+		apply(stored ? stored === "dark" : preferred());
+		
+		if (mode === "auto" && window.matchMedia) {
+			window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function (ev) {
+				try { if (localStorage.getItem(key)) return; } catch (e) {}
+				apply(ev.matches);
+			});
+		}
+		document.addEventListener("click", function (e) {
+			if (!e.target.closest || !e.target.closest("#theme-toggle")) return;
+			var dark = document.documentElement.getAttribute("data-theme") !== "dark";
+			apply(dark);
+			try { localStorage.setItem(key, dark ? "dark" : "light"); } catch (e) {}
+		});
+	})();
+	</script>
+
+	<script defer src="/js/feather.min.js"></script>
+	
+	<meta name="generator" content="Hugo 0.168.0">
 </head>
 
 <body>
-	<div class="container wrapper">
+	<div class="container wrapper ">
 		<div class="header">
-	<base href="https://jp-weber.family/">
-	<h1 class="site-title"><a href="https://jp-weber.family/">Familie Weber: Paul, J, K, F und A</a></h1>
+	<h1 class="site-title"><a href="/">Familie Weber: Paul, J, K, F und A</a></h1>
 	<div class="site-description"><h2>Texte übers Radfahren, Programmieren und Kochen</h2><nav class="nav social">
-			<ul class="flat"><a href="https://github.com/000panther" title="Github"><img
-					src="/icons/github.svg"
-					alt="Github"
-					height="36"
-					width="36"
-					rel="" />
-				  </a><a href="https://ooe.social/@000panther" title="Mastodon"><img
-					src="/icons/mastodon.svg"
-					alt="Mastodon"
-					height="36"
-					width="36"
-					rel="me" />
-				  </a></ul>
-		</nav>
-	</div>
+			<ul class="flat"><li><a href="https://github.com/000panther" title="Github"><img src="/icons/github.svg" alt="Github" height="36" width="36" /></a></li><li><a href="https://ooe.social/@000panther" title="Mastodon" rel="me"><img src="/icons/mastodon.svg" alt="Mastodon" height="36" width="36" /></a></li><li class="theme-switch">
+					<button type="button" id="theme-toggle" title="Toggle dark mode" aria-label="Toggle dark mode"><i data-feather="moon" class="icon-to-dark"></i><i data-feather="sun" class="icon-to-light"></i></button>
+				</li></ul>
+		</nav></div>
 
 	<nav class="nav">
 		<ul class="flat">
@@ -66,117 +86,120 @@
 
 		
 
-		<div class="recent-posts section">
-			<h2 class="section-header">
-				Recent posts
-			</h2>
-			<div class="posts">
+
+<div class="recent-posts section">
+	<h2 class="section-header">
+		Recent posts
+	</h2>
+	<div class="posts">
+		
+		
+		
+		<div class="post">
+			<div class="meta">25. Oktober 2026</div>
+			<a class="title" href="/posts/fahrrad/franckviertel-derfflingerstrasse/">Vom Franckviertel zur Derfflingerstraße: flott mit nur einer Ampel, aber drei Gefahrenstellen und kein Licht</a> &mdash;
+			<span class="description">
 				
+				Der Geh- und Radweg entlang der A7 ist eine der schnellsten Radverbindungen durch Linz. Drei Gefahrenstellen und die fehlende Beleuchtung machen ihn aber unnötig gefährlich.
 				
+			</span>
+		</div>
+		
+		<div class="post">
+			<div class="meta">29. Jänner 2025</div>
+			<a class="title" href="/posts/repair-reuse-recycle/alte-fahrradschlaeuche-upcyclen/">Alte Fahrradschläuche verwerten</a> &mdash;
+			<span class="description">
 				
-				<div class="post">
-					<div class="meta">Jan 29, 2025</div>
-					<a class="title" href="/posts/repair-reuse-recycle/alte-fahrradschlaeuche-upcyclen/">Alte Fahrradschläuche verwerten</a> &mdash;
-					<span class="description">
-						
-						Mit alten Fahrradschläuchen zum Beispiel neue Gepäcksspanner machen
-						
-					</span>
-				</div>
+				Mit alten Fahrradschläuchen zum Beispiel neue Gepäcksspanner machen
 				
-				<div class="post">
-					<div class="meta">Dec 22, 2024</div>
-					<a class="title" href="/posts/kinder/computerspiele-fuer-kinder/">Computerspiele für Kinder</a> &mdash;
-					<span class="description">
-						
-						Meine Empfehlungen für unterhaltsame Stunden vor dem PC
-						
-					</span>
-				</div>
+			</span>
+		</div>
+		
+		<div class="post">
+			<div class="meta">22. Dezember 2024</div>
+			<a class="title" href="/posts/kinder/computerspiele-fuer-kinder/">Computerspiele für Kinder</a> &mdash;
+			<span class="description">
 				
-				<div class="post">
-					<div class="meta">May 17, 2023</div>
-					<a class="title" href="/posts/entwicklung/hardening-firebase/">Hardening firebase</a> &mdash;
-					<span class="description">
-						
-						<p>Firebase offers unparalelled development speed, handling all the nitty gritty details that you might not want to think about when getting a product to market. It provides hosting, database, storage, cloud functions and much more functionality.</p>
-<p>But by default a firebase installation is not focussed on security but developer productivity. If you have an app that has some security requirements you should think about hardening your installation. This can be done by adjusting some settings in the underlying Google Cloud Project.</p>&hellip;
-						
-					</span>
-				</div>
+				Meine Empfehlungen für unterhaltsame Stunden vor dem PC
 				
-				<div class="post">
-					<div class="meta">Jan 21, 2020</div>
-					<a class="title" href="/posts/fahrrad/radfahren-am-gehsteig/">Radfahren am Gehsteig?</a> &mdash;
-					<span class="description">
-						
-						Gerade im Bulgariplatzviertel gibt es bei der Radinfrastruktur noch einiges zu tun.
-						
-					</span>
-				</div>
+			</span>
+		</div>
+		
+		<div class="post">
+			<div class="meta">17. Mai 2023</div>
+			<a class="title" href="/posts/entwicklung/hardening-firebase/">Hardening firebase</a> &mdash;
+			<span class="description">
 				
-				<div class="post">
-					<div class="meta">Jan 21, 2020</div>
-					<a class="title" href="/posts/fahrrad/radlerkummer-im-bulgariplatz-viertel/">Radlerkummer im Bulgariplatzviertel</a> &mdash;
-					<span class="description">
-						
-						Gerade im Bulgariplatzviertel gibt es bei der Radinfrastruktur noch einiges zu tun.
-						
-					</span>
-				</div>
+				Firebase offers unparalelled development speed, handling all the nitty gritty details that you might not want to think about when getting a product to market. It provides hosting, database, storage, cloud functions and much more functionality.
+But by default a firebase installation is not focussed on security but developer productivity. If you have an app that has some security requirements you should think about hardening your installation. This can be done by adjusting some settings in the underlying Google Cloud Project.
+&hellip;
 				
-				<div class="post">
-					<div class="meta">Jan 21, 2020</div>
-					<a class="title" href="/posts/entwicklung/nativescript-firebase-issues/">Gelöst: nativescript-firebase Problem bei app resume</a> &mdash;
-					<span class="description">
-						
-						<p>Push Notifications stehen bei mir seit meinen Cordova Zeiten unter einem schlechten Stern, obwohl sich hier viel getan hat. Dementsprechend ging auch bei der aktuellen Implementierung mit <a href="https://www.nativescript.org/">Nativescript</a> und Angular nicht gleich alles glatt.</p>
-<p>Beim aktuellen Problem ging es um seltsames Verhalten der App, nachdem die App aus dem Ruhezustand über eine Push Notification geöffnet wurde. Dies führte dazu das Angular Services nicht mehr reagierten, es wirkte sogar so als würden bei jedem Neustart Services dupliziert. Nach einem Start aus dem Ruhezustand über Push Notification funktionierten dann eigentlich alle von einer Push Notification ausgelösten Features nicht mehr zuverlässig.</p>&hellip;
-						
-					</span>
-				</div>
+			</span>
+		</div>
+		
+		<div class="post">
+			<div class="meta">21. Jänner 2020</div>
+			<a class="title" href="/posts/fahrrad/radfahren-am-gehsteig/">Radfahren am Gehsteig?</a> &mdash;
+			<span class="description">
 				
-				<div class="post">
-					<div class="meta">Dec 26, 2019</div>
-					<a class="title" href="/posts/kochen/blitz-rezept-fuer-mohnnudeln/">Warmer Krautsalat (Rezept von Julias Großeltern)</a> &mdash;
-					<span class="description">
-						
-						Warmer Krautsalat, mit oder ohne Speck - flott und gschmackig
-						
-					</span>
-				</div>
+				Gerade im Bulgariplatzviertel gibt es bei der Radinfrastruktur noch einiges zu tun.
 				
-				<div class="post">
-					<div class="meta">Dec 26, 2019</div>
-					<a class="title" href="/posts/kochen/warmer-krautsalat-von-julias-grosseltern/">Warmer Krautsalat (Rezept von Julias Großeltern)</a> &mdash;
-					<span class="description">
-						
-						Warmer Krautsalat, mit oder ohne Speck - flott und gschmackig
-						
-					</span>
-				</div>
+			</span>
+		</div>
+		
+		<div class="post">
+			<div class="meta">21. Jänner 2020</div>
+			<a class="title" href="/posts/fahrrad/radlerkummer-im-bulgariplatzviertel/">Radlerkummer im Bulgariplatzviertel</a> &mdash;
+			<span class="description">
 				
-				<div class="post">
-					<div class="meta">Dec 26, 2019</div>
-					<a class="title" href="/posts/kochen/zimtschnecken-nach-cinnabon-art/">Zimtschnecken a la Cinnabon</a> &mdash;
-					<span class="description">
-						
-						Leckere Zimtschnecken sind gar nicht so schwierig selber zu machen.
-						
-					</span>
-				</div>
+				Gerade im Bulgariplatzviertel gibt es bei der Radinfrastruktur noch einiges zu tun.
 				
-				<div class="post">
-					<div class="meta">Dec 25, 2019</div>
-					<a class="title" href="/posts/radlkarte-linz/">Radlkarte Linz online</a> &mdash;
-					<span class="description">
-						
-						Viel Arbeit aber auch viel Freude bereitete mir die Kartierung der Radinfrastruktur von Linz nach dem Vorbild der Radlkarte Wien
-						
-					</span>
-				</div>
+			</span>
+		</div>
+		
+		<div class="post">
+			<div class="meta">21. Jänner 2020</div>
+			<a class="title" href="/posts/entwicklung/nativescript-firebase-issues/">Gelöst: nativescript-firebase Problem bei app resume</a> &mdash;
+			<span class="description">
 				
+				Push Notifications stehen bei mir seit meinen Cordova Zeiten unter einem schlechten Stern, obwohl sich hier viel getan hat. Dementsprechend ging auch bei der aktuellen Implementierung mit Nativescript und Angular nicht gleich alles glatt.
+Beim aktuellen Problem ging es um seltsames Verhalten der App, nachdem die App aus dem Ruhezustand über eine Push Notification geöffnet wurde. Dies führte dazu das Angular Services nicht mehr reagierten, es wirkte sogar so als würden bei jedem Neustart Services dupliziert. Nach einem Start aus dem Ruhezustand über Push Notification funktionierten dann eigentlich alle von einer Push Notification ausgelösten Features nicht mehr zuverlässig.
+&hellip;
 				
+			</span>
+		</div>
+		
+		<div class="post">
+			<div class="meta">26. Dezember 2019</div>
+			<a class="title" href="/posts/kochen/blitz-rezept-fuer-mohnnudeln/">Warmer Krautsalat (Rezept von Julias Großeltern)</a> &mdash;
+			<span class="description">
+				
+				Warmer Krautsalat, mit oder ohne Speck - flott und gschmackig
+				
+			</span>
+		</div>
+		
+		<div class="post">
+			<div class="meta">26. Dezember 2019</div>
+			<a class="title" href="/posts/kochen/warmer-krautsalat-von-julias-grosseltern/">Warmer Krautsalat (Rezept von Julias Großeltern)</a> &mdash;
+			<span class="description">
+				
+				Warmer Krautsalat, mit oder ohne Speck - flott und gschmackig
+				
+			</span>
+		</div>
+		
+		<div class="post">
+			<div class="meta">26. Dezember 2019</div>
+			<a class="title" href="/posts/kochen/zimtschnecken-nach-cinnabon-art/">Zimtschnecken a la Cinnabon</a> &mdash;
+			<span class="description">
+				
+				Leckere Zimtschnecken sind gar nicht so schwierig selber zu machen.
+				
+			</span>
+		</div>
+		
+		
 
 <ul class="pagination">
 	<li class="page-item page-prev">
@@ -190,8 +213,9 @@
 </ul>
 
 
-			</div>
-		</div>
+	</div>
+</div>
+
 	</div>
 	<div class="footer wrapper">
 	<nav class="nav">
@@ -199,5 +223,8 @@
 	</nav>
 </div>
 
+
+
+<script>document.addEventListener('DOMContentLoaded', function () { feather.replace() })</script>
 </body>
 </html>
